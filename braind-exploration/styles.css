@@ -1,0 +1,39 @@
+
+body {
+    padding: 30px 0 0 0;
+    color: rgb(221, 215, 215);
+    background-image: url("images/braind_background.gif");
+    background-size: cover;
+    text-align: center;
+    font-family: 'Ysabeau', sans-serif;
+}
+
+#main-logo {
+    width: 100px;
+    text-align: center;
+    padding: 20px 0 0 0;
+}
+
+a:link {
+  color: blueviolet;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(221, 215, 215);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(83, 114, 181);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: rgb(221, 215, 215);
+  background-color: transparent;
+  text-decoration: underline;
+}
